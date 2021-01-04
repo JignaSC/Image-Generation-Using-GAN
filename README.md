@@ -13,4 +13,6 @@ Both Generator and Discriminators are Neural Networks.
   * Generator: With the gradient of fake Images
   
 **Loss of Generator and Discriminator does not change that much. It remains almost constant because both are learning simultaneously.\
-Unlike regression and classification loss will not decrease after every epochs.**
+Unlike regression and classification loss will not decrease after every epochs.**/
+/
+For more information follow this [Named Link](https://developers.google.com/machine-learning/gan "Generative Adversarial Networks (GANs)")
